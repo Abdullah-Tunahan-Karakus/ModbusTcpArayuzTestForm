@@ -8,7 +8,7 @@ Bu depo, endüstriyel haberleşme cihazlarını (PLC, Simülatör vb.) test etme
 
 ---
 
-## 📸 Ekran Görüntüsü
+##  Ekran Görüntüsü
 
 ![WinForms Test Ekranı]<img width="845" height="406" alt="formekrantesttcp" src="https://github.com/user-attachments/assets/a0b28f3a-aff5-49bc-bcdc-cb502e649b01" />
 
@@ -18,7 +18,7 @@ Bu depo, endüstriyel haberleşme cihazlarını (PLC, Simülatör vb.) test etme
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 * **Asenkron Mimari (`async/await`):** Okuma/yazma işlemleri sırasında arayüz donmaz.
 * **Canlı Veri Okuma (FC 03):** Belirtilen adreslerden anlık register değerlerini çeker.
 * **Tekli Yazma (FC 06):** Cihazdaki spesifik bir adrese tekil değer ataması yapar.
@@ -27,6 +27,6 @@ Bu depo, endüstriyel haberleşme cihazlarını (PLC, Simülatör vb.) test etme
 
 ---
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 **Abdullah Tunahan Karakuş**  
 *Bilgisayar Mühendisi* | *Endüstriyel Haberleşme & Yazılım Mimarileri*
